@@ -11,5 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hamzaelkhatri@gmail.com
 - ⚡ Fun fact: coding is life style.
 -->
+<center>
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=helkhatr"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaelkhatri&show_icons=true&theme=radical"/>
+</center>
