@@ -6,5 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=hamzaelkhatri)
 <div style="text-align:center">
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=helkhatr"/><br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelkhatri&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaelkhatri&show_icons=true&theme=radical"/>
 </div>
