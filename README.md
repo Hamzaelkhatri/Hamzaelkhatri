@@ -5,6 +5,6 @@
 📫 How to reach me: hamzaelkhatri@gmail.com<br>
 ![](https://komarev.com/ghpvc/?username=hamzaelkhatri)
 <div style="text-align:center">
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=helkhatr)](https://github.com/mohouyizme/1337-readme)<br>
+<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=helkhatr" /> </br>
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaelkhatri&show_icons=true&theme=radical"/>
 </div>
