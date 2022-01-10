@@ -18,13 +18,11 @@
 ![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=important)
 ![](https://img.shields.io/badge/tools-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=important)
 ![](https://img.shields.io/badge/agile-git-informational?style=flat&logo=git&logoColor=white&color=important)
-![](https://img.shields.io/badge/web-rest-informational?style=flat&logoColor=white&color=important)
 
 ![](https://img.shields.io/badge/db-relational-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
-
 
 </div>
