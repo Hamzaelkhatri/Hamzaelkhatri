@@ -6,7 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=hamzaelkhatri)
 <div style="text-align:center">
-<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=helkhatr" /> </br>
  </br>
 
 ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
