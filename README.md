@@ -10,6 +10,7 @@
 
 ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-c++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-c-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
