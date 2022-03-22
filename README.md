@@ -25,4 +25,8 @@
 ![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
 
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hamzaelkhatri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
