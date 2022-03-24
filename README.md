@@ -27,6 +27,6 @@
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-[![](https://activity-graph.herokuapp.com/graph?username=hamzaelkhatri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://activity-graph.herokuapp.com/graph?username=hamzaelkhatri&theme=react-dark)
 
 </div>
