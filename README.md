@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently studing on 1337 and bachelor's degree of software engineering<br>
-🌱 I’m currently learning Nestjs,nextjs ,reactjs<br>
+🌱 I’m currently learning <strong>Golang</strong><br>
 📫 How to reach me: hamzaelkhatri@gmail.com<br>
 
 ![](https://komarev.com/ghpvc/?username=hamzaelkhatri)
