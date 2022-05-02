@@ -5,7 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=hamzaelkhatri)
 <div style="text-align:center">
- </br>
+ 
+![](https://badge42.vercel.app/api/v2/cl2ow7udn000609mnvbnr48wv/stats?cursusId=21&coalitionId=74)
+ 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
 ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
