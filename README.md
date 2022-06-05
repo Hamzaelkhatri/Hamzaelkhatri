@@ -3,7 +3,6 @@
 🌱 I’m currently learning <strong>Golang</strong><br>
 📫 How to reach me: hamzaelkhatri@gmail.com<br>
 
-![](https://komarev.com/ghpvc/?username=hamzaelkhatri)
 <div style="text-align:center">
  
 ![](https://badge42.vercel.app/api/v2/cl2ow7udn000609mnvbnr48wv/stats?cursusId=21&coalitionId=74)
