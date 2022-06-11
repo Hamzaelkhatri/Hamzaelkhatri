@@ -1,11 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently studing on 1337 and bachelor's degree of software engineering<br>
 🌱 I’m currently learning <strong>Golang</strong><br>
 📫 How to reach me: hamzaelkhatri@gmail.com<br>
 
 <div style="text-align:center">
- 
-![](https://badge42.vercel.app/api/v2/cl2ow7udn000609mnvbnr48wv/stats?cursusId=21&coalitionId=74)
  
 <h2 align='center'><i>Languages and Tools</i></h2>
 
