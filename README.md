@@ -1,8 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning <strong>Golang</strong><br>
-📫 How to reach me: hamzaelkhatri@gmail.com<br>
-
 <div style="text-align:center">
+  <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20My%20name%20Hamza.;Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
+       style="max-width: 100%;">
  
 <h2 align='center'><i>Languages and Tools</i></h2>
 
