@@ -1,27 +1,3 @@
-### Hi there 👋
-<div style="text-align:center">
-  <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
-       style="max-width: 100%;">
- 
-<h2 align='center'><i>Languages and Tools</i></h2>
-
-![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-c++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-c-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
-
-![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=important)
-![](https://img.shields.io/badge/tools-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=important)
-![](https://img.shields.io/badge/agile-git-informational?style=flat&logo=git&logoColor=white&color=important)
-
-![](https://img.shields.io/badge/db-relational-informational?style=flat&logo=postgresql&logoColor=white&color=red)
-
-![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
-
 
 <h2 align='center'><i>⚡ Github Stats</i></h2>
 
